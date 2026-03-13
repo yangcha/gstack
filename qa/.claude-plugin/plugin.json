@@ -1,0 +1,5 @@
+{
+  "name": "qa",
+  "description": "Systematically QA test a web application with full, quick, and regression modes",
+  "version": "1.0.0"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "review",
+  "description": "Pre-landing PR review for SQL safety, LLM trust boundaries, and structural issues",
+  "version": "1.0.0"
+}

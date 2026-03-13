@@ -1,0 +1,5 @@
+{
+  "name": "ship",
+  "description": "Ship workflow: merge main, run tests, review diff, bump version, update changelog, commit, push, create PR",
+  "version": "1.0.0"
+}

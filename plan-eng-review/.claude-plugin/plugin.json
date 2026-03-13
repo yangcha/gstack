@@ -1,0 +1,5 @@
+{
+  "name": "plan-eng-review",
+  "description": "Eng manager-mode plan review for architecture, data flow, edge cases, and test coverage",
+  "version": "1.0.0"
+}

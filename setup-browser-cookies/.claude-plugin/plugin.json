@@ -1,0 +1,5 @@
+{
+  "name": "setup-browser-cookies",
+  "description": "Import cookies from your real browser into the headless browse session",
+  "version": "1.0.0"
+}
